@@ -1,0 +1,18 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: black;
+}
+
+header h1 {
+    color: salmon;
+}
+
+#salmon {
+    background-color: salmon;
+    height: 800px;
+    width: 100%;
+}
